@@ -39,6 +39,7 @@ if __name__ == "__main__":
     parser.add_argument("-s", "--string", help="String to process, otherwise will loop")
     parser.add_argument("--sample", default=False, action="store_true", help="Enable sampling generation instead of argmax")
     parser.add_argument("--self", type=int, default=1, help="Enable self-loop mode with given amount of phrases.")
+    parser.add_argument("-f", "--file", help="input file test")
     args = parser.parse_args()
 
     emb_dict = data.load_emb_dict(os.path.dirname(args.model))
@@ -46,6 +47,21 @@ if __name__ == "__main__":
     net.load_state_dict(torch.load(args.model))
 
     rev_emb_dict = {idx: word for word, idx in emb_dict.items()}
+
+    if args.file:
+        fx = open("output.txt", "w", encoding='utf-8', errors='ignore')
+        seeds = open('test_input.txt', encoding='utf-8', errors='ignore').read().split('\n')
+        print("Bat dau ghi file")
+        for seed in seeds:
+            fx.write('input: {}\n'.format(seed))
+            
+            words = utils.tokenize(seed)
+            words = words_to_words(words, emb_dict, rev_emb_dict, net, use_sampling=args.sample)
+            kq = utils.untokenize(words)
+            fx.write('output: {}\n\n'.format(kq))
+
+        fx.close()
+        print("Ket thuc ghi file")
 
     while True:
         if args.string:
