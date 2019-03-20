@@ -86,6 +86,8 @@ if __name__ == "__main__":
         batch_idx = 0
         best_bleu = None
         for epoch in range(MAX_EPOCHES):
+            losses = []
+
             random.shuffle(train_data)
             dial_shown = False
 
@@ -157,6 +159,8 @@ if __name__ == "__main__":
                 loss_v.backward()
                 optimiser.step()
 
+                losses.append(loss_v.item())
+
                 tb_tracker.track("advantage", adv_v, batch_idx)
                 tb_tracker.track("loss_policy", loss_policy_v, batch_idx)
                 tb_tracker.track("loss_total", loss_v, batch_idx)
@@ -168,7 +172,7 @@ if __name__ == "__main__":
             writer.add_scalar("bleu_sample", np.mean(bleus_sample), batch_idx)
             writer.add_scalar("skipped_samples", skipped_samples / total_samples, batch_idx)
             writer.add_scalar("epoch", batch_idx, epoch)
-            log.info("Epoch %d, test BLEU: %.3f", epoch, bleu_test)
+            log.info("Epoch %d, mean_loss: %3f, test BLEU: %.3f", epoch, np.mean(losses), bleu_test)
             if best_bleu is None or best_bleu < bleu_test:
                 best_bleu = bleu_test
                 log.info("Best bleu updated: %.4f", bleu_test)
