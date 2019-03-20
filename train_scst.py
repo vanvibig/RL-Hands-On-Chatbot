@@ -178,6 +178,6 @@ if __name__ == "__main__":
                 log.info("Best bleu updated: %.4f", bleu_test)
                 torch.save(net.state_dict(), os.path.join(saves_path, "bleu_%.3f_%02d.dat" % (bleu_test, epoch)))
             if epoch % 10 == 0:
-                torch.save(net.state_dict(), os.path.join(saves_path, "epoch_%03d_%.3f_%.3f_%.3f.dat" % (epoch, bleu, bleu_test, np.mean(losses))))
+                torch.save(net.state_dict(), os.path.join(saves_path, "epoch_%03d_%.3f_%.3f_%.3f.dat" % (epoch, bleu, bleu_test, abs(np.mean(losses)))))
 
     writer.close()
