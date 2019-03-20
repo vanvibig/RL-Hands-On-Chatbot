@@ -1,0 +1,1 @@
+scp 'vanvibig@40.65.191.134:~/convert_vn_to_fit_code/movie_lines_vn_with_max_len_10.txt' vvv.txt
