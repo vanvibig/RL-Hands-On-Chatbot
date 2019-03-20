@@ -172,7 +172,7 @@ if __name__ == "__main__":
             writer.add_scalar("bleu_sample", np.mean(bleus_sample), batch_idx)
             writer.add_scalar("skipped_samples", skipped_samples / total_samples, batch_idx)
             writer.add_scalar("epoch", batch_idx, epoch)
-            log.info("Epoch %d, mean_loss: %3f, test BLEU: %.3f", epoch, np.mean(losses), bleu_test)
+            log.info("Epoch %d, mean_loss: %.3f, mean_bleu: %.3f, test BLEU: %.3f", epoch, abs(np.mean(losses)), bleu_test)
             if best_bleu is None or best_bleu < bleu_test:
                 best_bleu = bleu_test
                 log.info("Best bleu updated: %.4f", bleu_test)
