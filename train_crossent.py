@@ -53,8 +53,10 @@ if __name__ == "__main__":
 
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
 
-    print('phrase_pairs[10][0]: {}'.format(phrase_pairs[10][0]))
-    print('phrase_pairs[10][1]: {}'.format(phrase_pairs[10][1]))
+    print('phrase_pairs[10]: {}'.format(phrase_pairs[0]))
+    print('phrase_pairs[10]: {}'.format(phrase_pairs[10]))
+    print('phrase_pairs[20]: {}'.format(phrase_pairs[20]))
+    print('phrase_pairs[30]: {}'.format(phrase_pairs[30]))
 
     log.info("Obtained %d phrase pairs with %d uniq words",
              len(phrase_pairs), len(emb_dict))
