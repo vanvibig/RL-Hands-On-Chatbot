@@ -16,7 +16,7 @@ SAVES_DIR = "saves"
 
 BATCH_SIZE = 32
 LEARNING_RATE = 1e-3
-MAX_EPOCHES = 100
+MAX_EPOCHES = 200
 
 log = logging.getLogger("train")
 
