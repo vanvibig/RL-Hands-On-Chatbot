@@ -3,6 +3,7 @@ numpy==1.15.4
 scipy==1.1.0
 torch==0.4.1
 torchvision==0.2.1
+nltk
 tensorboard-pytorch==0.7.1
 tensorflow==1.12.0
 tensorboard==1.12.0
