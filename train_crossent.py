@@ -101,8 +101,11 @@ if __name__ == "__main__":
     parser.add_argument("--cuda", action='store_true', default=True,
                         help="Enable cuda")
     parser.add_argument("-n", "--name", required=True, help="Name of the run")
+    parser.add_argument("-l", "--load", help="Load model and continue training")
     args = parser.parse_args()
     device = torch.device("cuda" if args.cuda else "cpu")
+
+    log.info("Device used: {}".format(device))
 
     saves_path = os.path.join(SAVES_DIR, args.name)
     os.makedirs(saves_path, exist_ok=True)
@@ -133,6 +136,10 @@ if __name__ == "__main__":
                             hid_size=model.HIDDEN_STATE_SIZE, word2vec=word2vec).to(device)
 
     log.info("Model: %s", net)
+
+    if args.load:
+        net.load_state_dict(torch.load(args.load))
+        log.info("Model loaded from %s, continue training cross-entropy...", args.load)
 
     writer = SummaryWriter(comment="-" + args.name)
 
