@@ -23,6 +23,8 @@ BATCH_SIZE = 32
 LEARNING_RATE = 1e-3
 MAX_EPOCHES = 200
 
+EMBEDDING_DIM = 50
+
 log = logging.getLogger("train")
 
 TEACHER_PROB = 0.5
@@ -63,6 +65,9 @@ def createword2vec(phrase_pairs, wordlist):
 
     fx2 = open("word2vec2.txt", "w", encoding='utf-8', errors='ignore')
     wordvec = []
+    wordvec.append(np.zeros(EMBEDDING_DIM))
+    wordvec.append(np.zeros(EMBEDDING_DIM))
+    wordvec.append(np.zeros(EMBEDDING_DIM))
     for w in wordlist:
         if w in model.wv:
             wordvec.append(model.wv[w])
@@ -102,6 +107,8 @@ if __name__ == "__main__":
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
     wordlist = createwordlist(emb_dict)
     word2vec = createword2vec(phrase_pairs, wordlist)
+    print('len(word2vec): {}'.format(len(word2vec)))
+    print('len(word2vec[0]): {}'.format(len(word2vec[0])))
 
     print('phrase_pairs[10]: {}'.format(phrase_pairs[0]))
     print('phrase_pairs[10]: {}'.format(phrase_pairs[10]))
