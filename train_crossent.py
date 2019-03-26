@@ -98,7 +98,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--data", required=True, help="Category to use for training. "
                                                       "Empty string to train on full dataset")
-    parser.add_argument("--cuda", action='store_true', default=False,
+    parser.add_argument("--cuda", action='store_true', default=True,
                         help="Enable cuda")
     parser.add_argument("-n", "--name", required=True, help="Name of the run")
     args = parser.parse_args()
