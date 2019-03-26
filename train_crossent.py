@@ -12,6 +12,11 @@ import torch
 import torch.optim as optim
 import torch.nn.functional as F
 
+from use_model import words_to_words
+
+from gensim.models import Word2Vec
+from gensim.test.utils import common_texts, get_tmpfile
+
 SAVES_DIR = "saves"
 
 BATCH_SIZE = 32
@@ -36,6 +41,21 @@ def run_test(test_data, net, end_token, device="cpu"):
         bleu_count += 1
     return bleu_sum / bleu_count
 
+def createword2vec(phrase_pairs):
+    fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
+    for pair in phrase_pairs:
+        q = ' '.join(t for t in pair[0])
+        a = ' '.join(t for t in pair[1])
+        fx.write(q+'\n')
+        fx.write(a+'\n')
+    fx.close()
+
+    # corpus = word2vec.Text8Corpus("all_lines.txt")
+    # word_vector = word2vec.Word2Vec(corpus, size=50)
+    # word_vector.wv.save_word2vec_format(u"model/word_vector.bin", binary=True)
+    # word_vector.wv.save_word2vec_format(u"model/word_vector.txt", binary=False)
+    print(common_texts)
+
 
 if __name__ == "__main__":
     logging.basicConfig(format="%(asctime)-15s %(levelname)s %(message)s", level=logging.INFO)
@@ -52,6 +72,7 @@ if __name__ == "__main__":
     os.makedirs(saves_path, exist_ok=True)
 
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
+    createword2vec(phrase_pairs)
 
     print('phrase_pairs[10]: {}'.format(phrase_pairs[0]))
     print('phrase_pairs[10]: {}'.format(phrase_pairs[10]))
@@ -84,6 +105,11 @@ if __name__ == "__main__":
         for batch in data.iterate_batches(train_data, BATCH_SIZE):
             optimiser.zero_grad()
             input_seq, out_seq_list, _, out_idx = model.pack_batch(batch, net.emb, device)
+            print('emb_dict: {}'.format(emb_dict))
+            print('input_seq: {}'.format(input_seq[0]))
+            print('input_idx: {}'.format(_[0]))
+            print('out_seq_list: {}'.format(out_seq_list[0]))
+            print('output_idx: {}'.format(out_idx[0]))
             enc = net.encode(input_seq)
 
             net_results = []
