@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
     net = model.PhraseModel(emb_size=model.EMBEDDING_DIM, dict_size=len(emb_dict),
                             hid_size=model.HIDDEN_STATE_SIZE, word2vec=word2vec).to(device)
-                            
+
     log.info("Model: %s", net)
 
     writer = SummaryWriter(comment="-" + args.name)
@@ -117,11 +117,11 @@ if __name__ == "__main__":
         for batch in data.iterate_batches(train_data, BATCH_SIZE):
             optimiser.zero_grad()
             input_seq, out_seq_list, _, out_idx = model.pack_batch(batch, net.emb, device)
-            print('emb_dict: {}'.format(emb_dict))
-            print('input_seq: {}'.format(input_seq[0]))
-            print('input_idx: {}'.format(_[0]))
-            print('out_seq_list: {}'.format(out_seq_list[0]))
-            print('output_idx: {}'.format(out_idx[0]))
+            # print('emb_dict: {}'.format(emb_dict))
+            # print('input_seq: {}'.format(input_seq[0]))
+            # print('input_idx: {}'.format(_[0]))
+            # print('out_seq_list: {}'.format(out_seq_list[0]))
+            # print('output_idx: {}'.format(out_idx[0]))
             enc = net.encode(input_seq)
 
             net_results = []
