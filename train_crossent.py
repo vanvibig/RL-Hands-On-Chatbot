@@ -21,7 +21,7 @@ SAVES_DIR = "saves"
 
 BATCH_SIZE = 32
 LEARNING_RATE = 1e-3
-MAX_EPOCHES = 200
+MAX_EPOCHES = 1000
 
 EMBEDDING_DIM = 50
 
@@ -60,18 +60,21 @@ def createword2vec(phrase_pairs, wordlist):
         text.append(q)
         text.append(a)
     print('text: {}'.format(text))
-    model = Word2Vec(text, size=50, window=2, min_count=1, workers=4)
+    model = Word2Vec(text, size=50, window=2, min_count=2, workers=4, sg=1)
     model.wv.save_word2vec_format('word2vec.txt', binary=False)
 
     fx2 = open("word2vec2.txt", "w", encoding='utf-8', errors='ignore')
     wordvec = []
-    wordvec.append(np.zeros(EMBEDDING_DIM))
-    wordvec.append(np.zeros(EMBEDDING_DIM))
-    wordvec.append(np.zeros(EMBEDDING_DIM))
+    # wordvec.append(np.zeros(EMBEDDING_DIM))
+    # wordvec.append(np.zeros(EMBEDDING_DIM))
+    # wordvec.append(np.zeros(EMBEDDING_DIM))
     for w in wordlist:
         if w in model.wv:
             wordvec.append(model.wv[w])
             fx2.write(w + ' ' + ' '.join(str(v) for v in model.wv[w]) + '\n')
+        else:
+            wordvec.append(np.zeros(EMBEDDING_DIM))
+            fx2.write(w + ' ' + ' '.join(str(v) for v in np.zeros(EMBEDDING_DIM)) + '\n')
     return wordvec
 
 
