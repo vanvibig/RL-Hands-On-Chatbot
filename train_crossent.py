@@ -102,7 +102,8 @@ if __name__ == "__main__":
     log.info("Train set has %d phrases, test %d", len(train_data), len(test_data))
 
     net = model.PhraseModel(emb_size=model.EMBEDDING_DIM, dict_size=len(emb_dict),
-                            hid_size=model.HIDDEN_STATE_SIZE).to(device)
+                            hid_size=model.HIDDEN_STATE_SIZE, word2vec=word2vec).to(device)
+                            
     log.info("Model: %s", net)
 
     writer = SummaryWriter(comment="-" + args.name)

@@ -12,10 +12,15 @@ EMBEDDING_DIM = 50
 
 
 class PhraseModel(nn.Module):
-    def __init__(self, emb_size, dict_size, hid_size):
+    def __init__(self, emb_size, dict_size, hid_size, word2vec=None):
         super(PhraseModel, self).__init__()
 
-        self.emb = nn.Embedding(num_embeddings=dict_size, embedding_dim=emb_size)
+        if word2vec:
+            weights = torch.FloatTensor(word2vec.wv.vectors)
+            self.emb = nn.Embedding.from_pretrained(weights)
+        else:
+            self.emb = nn.Embedding(num_embeddings=dict_size, embedding_dim=emb_size)
+            
         self.encoder = nn.LSTM(input_size=emb_size, hidden_size=hid_size,
                                num_layers=1, batch_first=True)
         self.decoder = nn.LSTM(input_size=emb_size, hidden_size=hid_size,
