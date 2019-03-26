@@ -14,6 +14,11 @@ import torch.nn.functional as F
 
 import ptan
 
+from gensim.models import Word2Vec
+from gensim.test.utils import common_texts, get_tmpfile
+
+EMBEDDING_DIM = 50
+
 SAVES_DIR = "saves"
 
 BATCH_SIZE = 16
@@ -22,6 +27,55 @@ MAX_EPOCHES = 10000
 
 log = logging.getLogger("train")
 
+def createword2vec(phrase_pairs, wordlist):
+    
+    fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
+    for pair in phrase_pairs:
+        q = ' '.join(t for t in pair[0])
+        a = ' '.join(t for t in pair[1])
+        fx.write(q+'\n')
+        fx.write(a+'\n')
+    fx.close()
+
+    text = []
+    for pair in phrase_pairs:
+        q = pair[0]
+        a = pair[1]
+        text.append(q)
+        text.append(a)
+    # print('text: {}'.format(text))
+    model = Word2Vec(text, size=50, window=2, min_count=2, workers=4, sg=1)
+    model.wv.save_word2vec_format('word2vec.txt', binary=False)
+
+    fx2 = open("word2vec2.txt", "w", encoding='utf-8', errors='ignore')
+    wordvec = []
+    # wordvec.append(np.zeros(EMBEDDING_DIM))
+    # wordvec.append(np.zeros(EMBEDDING_DIM))
+    # wordvec.append(np.zeros(EMBEDDING_DIM))
+    for w in wordlist:
+        if w in model.wv:
+            wordvec.append(model.wv[w])
+            fx2.write(w + ' ' + ' '.join(str(v) for v in model.wv[w]) + '\n')
+        else:
+            wordvec.append(np.zeros(EMBEDDING_DIM))
+            fx2.write(w + ' ' + ' '.join(str(v) for v in np.zeros(EMBEDDING_DIM)) + '\n')
+    return wordvec
+
+
+    # corpus = word2vec.Text8Corpus("all_lines.txt")
+    # word_vector = word2vec.Word2Vec(corpus, size=50)
+    # word_vector.wv.save_word2vec_format(u"model/word_vector.bin", binary=True)
+    # word_vector.wv.save_word2vec_format(u"model/word_vector.txt", binary=False)
+    # print(common_texts)
+
+def createwordlist(emb_dict):
+    fx = open("wordlist.txt", "w", encoding='utf-8', errors='ignore')
+    wordlist = []
+    for key, value in emb_dict.items():
+        fx.write(key+'\n')
+        wordlist.append(key)
+    fx.close()
+    return wordlist
 
 def run_test(test_data, net, end_token, device="cpu"):
     bleu_sum = 0.0
@@ -56,6 +110,10 @@ if __name__ == "__main__":
     os.makedirs(saves_path, exist_ok=True)
 
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
+
+    wordlist = createwordlist(emb_dict)
+    word2vec = createword2vec(phrase_pairs, wordlist)
+
     log.info("Obtained %d phrase pairs with %d uniq words", len(phrase_pairs), len(emb_dict))
     data.save_emb_dict(saves_path, emb_dict)
     end_token = emb_dict[data.END_TOKEN]
@@ -71,7 +129,7 @@ if __name__ == "__main__":
     rev_emb_dict = {idx: word for word, idx in emb_dict.items()}
 
     net = model.PhraseModel(emb_size=model.EMBEDDING_DIM, dict_size=len(emb_dict),
-                            hid_size=model.HIDDEN_STATE_SIZE).to(device)
+                            hid_size=model.HIDDEN_STATE_SIZE, word2vec=word2vec).to(device)
     log.info("Model: %s", net)
 
     writer = SummaryWriter(comment="-" + args.name)
@@ -172,7 +230,7 @@ if __name__ == "__main__":
             writer.add_scalar("bleu_sample", np.mean(bleus_sample), batch_idx)
             writer.add_scalar("skipped_samples", skipped_samples / total_samples, batch_idx)
             writer.add_scalar("epoch", batch_idx, epoch)
-            log.info("Epoch %d, mean_loss: %.3f, mean_bleu: %.3f, test BLEU: %.3f", epoch, bleu, abs(np.mean(losses)), bleu_test)
+            log.info("Epoch %d, mean_loss: %.3f, mean_bleu: %.3f, test BLEU: %.3f", epoch, abs(np.mean(losses)), bleu, bleu_test)
             if best_bleu is None or best_bleu < bleu_test:
                 best_bleu = bleu_test
                 log.info("Best bleu updated: %.4f", bleu_test)
