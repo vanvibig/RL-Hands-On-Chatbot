@@ -57,7 +57,7 @@ def createword2vec(phrase_pairs):
         text.append(a)
     print('text: {}'.format(text))
     model = Word2Vec(text, size=50, window=2, min_count=1, workers=4)
-    model.wv.save_word2vec_format('word2vec.txt', binary=True)
+    model.wv.save_word2vec_format('word2vec.txt', binary=False)
     return model
 
 
