@@ -42,13 +42,24 @@ def run_test(test_data, net, end_token, device="cpu"):
     return bleu_sum / bleu_count
 
 def createword2vec(phrase_pairs):
-    fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
+    # fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
+    # for pair in phrase_pairs:
+    #     q = ' '.join(t for t in pair[0])
+    #     a = ' '.join(t for t in pair[1])
+    #     fx.write(q+'\n')
+    #     fx.write(a+'\n')
+    # fx.close()
+    text = []
     for pair in phrase_pairs:
-        q = ' '.join(t for t in pair[0])
-        a = ' '.join(t for t in pair[1])
-        fx.write(q+'\n')
-        fx.write(a+'\n')
-    fx.close()
+        q = pair[0]
+        a = pair[1]
+        text.append(q)
+        text.append(a)
+    print('text: {}'.format(text))
+    model = Word2Vec(text, size=50, window=2, min_count=1, workers=4)
+    model.vw.save_word2vec_format('word2vec.txt', binary=True)
+    return model
+
 
     # corpus = word2vec.Text8Corpus("all_lines.txt")
     # word_vector = word2vec.Word2Vec(corpus, size=50)
@@ -72,7 +83,7 @@ if __name__ == "__main__":
     os.makedirs(saves_path, exist_ok=True)
 
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
-    createword2vec(phrase_pairs)
+    word2vec = createword2vec(phrase_pairs)
 
     print('phrase_pairs[10]: {}'.format(phrase_pairs[0]))
     print('phrase_pairs[10]: {}'.format(phrase_pairs[10]))
