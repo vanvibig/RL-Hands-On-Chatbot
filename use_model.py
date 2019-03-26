@@ -43,7 +43,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     emb_dict = data.load_emb_dict(os.path.dirname(args.model))
-    net = model.PhraseModel(emb_size=model.EMBEDDING_DIM, dict_size=len(emb_dict), hid_size=model.HIDDEN_STATE_SIZE)
+    net = model.PhraseModel(emb_size=model.EMBEDDING_DIM, dict_size=len(emb_dict), hid_size=model.HIDDEN_STATE_SIZE, )
     net.load_state_dict(torch.load(args.model))
 
     rev_emb_dict = {idx: word for word, idx in emb_dict.items()}

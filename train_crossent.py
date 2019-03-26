@@ -41,14 +41,16 @@ def run_test(test_data, net, end_token, device="cpu"):
         bleu_count += 1
     return bleu_sum / bleu_count
 
-def createword2vec(phrase_pairs):
-    # fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
-    # for pair in phrase_pairs:
-    #     q = ' '.join(t for t in pair[0])
-    #     a = ' '.join(t for t in pair[1])
-    #     fx.write(q+'\n')
-    #     fx.write(a+'\n')
-    # fx.close()
+def createword2vec(phrase_pairs, wordlist):
+    
+    fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
+    for pair in phrase_pairs:
+        q = ' '.join(t for t in pair[0])
+        a = ' '.join(t for t in pair[1])
+        fx.write(q+'\n')
+        fx.write(a+'\n')
+    fx.close()
+
     text = []
     for pair in phrase_pairs:
         q = pair[0]
@@ -58,7 +60,14 @@ def createword2vec(phrase_pairs):
     print('text: {}'.format(text))
     model = Word2Vec(text, size=50, window=2, min_count=1, workers=4)
     model.wv.save_word2vec_format('word2vec.txt', binary=False)
-    return model
+
+    fx2 = open("word2vec2.txt", "w", encoding='utf-8', errors='ignore')
+    wordvec = []
+    for w in wordlist:
+        if w in model.wv:
+            wordvec.append(model.wv[w])
+            fx2.write(w + ' ' + ' '.join(str(v) for v in model.wv[w]) + '\n')
+    return wordvec
 
 
     # corpus = word2vec.Text8Corpus("all_lines.txt")
@@ -67,6 +76,14 @@ def createword2vec(phrase_pairs):
     # word_vector.wv.save_word2vec_format(u"model/word_vector.txt", binary=False)
     # print(common_texts)
 
+def createwordlist(emb_dict):
+    fx = open("wordlist.txt", "w", encoding='utf-8', errors='ignore')
+    wordlist = []
+    for key, value in emb_dict.items():
+        fx.write(key+'\n')
+        wordlist.append(key)
+    fx.close()
+    return wordlist
 
 if __name__ == "__main__":
     logging.basicConfig(format="%(asctime)-15s %(levelname)s %(message)s", level=logging.INFO)
@@ -83,7 +100,8 @@ if __name__ == "__main__":
     os.makedirs(saves_path, exist_ok=True)
 
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
-    word2vec = createword2vec(phrase_pairs)
+    wordlist = createwordlist(emb_dict)
+    word2vec = createword2vec(phrase_pairs, wordlist)
 
     print('phrase_pairs[10]: {}'.format(phrase_pairs[0]))
     print('phrase_pairs[10]: {}'.format(phrase_pairs[10]))

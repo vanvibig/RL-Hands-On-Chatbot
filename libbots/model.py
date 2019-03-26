@@ -16,7 +16,7 @@ class PhraseModel(nn.Module):
         super(PhraseModel, self).__init__()
 
         if word2vec:
-            weights = torch.FloatTensor(word2vec.wv.vectors)
+            weights = torch.FloatTensor(word2vec)
             self.emb = nn.Embedding.from_pretrained(weights)
         else:
             self.emb = nn.Embedding(num_embeddings=dict_size, embedding_dim=emb_size)
