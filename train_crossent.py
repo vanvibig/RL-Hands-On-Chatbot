@@ -23,6 +23,8 @@ BATCH_SIZE = 32
 LEARNING_RATE = 1e-3
 MAX_EPOCHES = 1000
 
+start_epoch = 0
+
 EMBEDDING_DIM = 50
 
 log = logging.getLogger("train")
@@ -102,10 +104,14 @@ if __name__ == "__main__":
                         help="Enable cuda")
     parser.add_argument("-n", "--name", required=True, help="Name of the run")
     parser.add_argument("-l", "--load", help="Load model and continue training")
+    parser.add_argument("-se", "--startepoch", help="epoch start from")
     args = parser.parse_args()
     device = torch.device("cuda" if args.cuda else "cpu")
 
     log.info("Device used: {}".format(device))
+
+    if args.startepoch:
+        start_epoch = int(args.startepoch)
 
     saves_path = os.path.join(SAVES_DIR, args.name)
     os.makedirs(saves_path, exist_ok=True)
@@ -145,7 +151,7 @@ if __name__ == "__main__":
 
     optimiser = optim.Adam(net.parameters(), lr=LEARNING_RATE)
     best_bleu = None
-    for epoch in range(MAX_EPOCHES):
+    for epoch in range(start_epoch, MAX_EPOCHES):
         losses = []
         bleu_sum = 0.0
         bleu_count = 0
