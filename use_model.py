@@ -7,6 +7,8 @@ from libbots import data, model, utils
 
 import torch
 
+from underthesea import word_tokenize
+
 log = logging.getLogger("use")
 
 
@@ -71,6 +73,7 @@ if __name__ == "__main__":
         if not input_string:
             break
 
+        input_string = word_tokenize(input_string, format="text")
         words = utils.tokenize(input_string)
         for _ in range(args.self):
             words = words_to_words(words, emb_dict, rev_emb_dict, net, use_sampling=args.sample)

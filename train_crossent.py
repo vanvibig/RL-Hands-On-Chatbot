@@ -22,6 +22,22 @@ log = logging.getLogger("train")
 
 TEACHER_PROB = 0.5
 
+def create_in_out(phrase_pairs):
+    
+    fx = open("all_lines.txt", "w", encoding='utf-8', errors='ignore')
+    for pair in phrase_pairs:
+        q = ' '.join(t for t in pair[0])
+        a = ' '.join(t for t in pair[1])
+        fx.write(q+'\n')
+        fx.write(a+'\n')
+        fx.write('\n')
+    fx.close()
+
+def createwordlist(emb_dict):
+    fx = open("word_list.txt", "w", encoding='utf-8', errors='ignore')
+    for key, value in emb_dict.items():
+        fx.write(key+'\n')
+    fx.close()
 
 def run_test(test_data, net, end_token, device="cpu"):
     bleu_sum = 0.0
@@ -52,6 +68,10 @@ if __name__ == "__main__":
     os.makedirs(saves_path, exist_ok=True)
 
     phrase_pairs, emb_dict = data.load_data(genre_filter=args.data)
+
+    create_in_out(phrase_pairs)
+    createwordlist(emb_dict)
+
     log.info("Obtained %d phrase pairs with %d uniq words",
              len(phrase_pairs), len(emb_dict))
     data.save_emb_dict(saves_path, emb_dict)
@@ -118,7 +138,7 @@ if __name__ == "__main__":
             best_bleu = bleu_test
 
         if epoch % 10 == 0:
-            out_name = os.path.join(saves_path, "epoch_%03d_%.3f_%.3f_%.3f.dat" %
+            out_name = os.path.join(saves_path, "epoch_%03d_%.3f_%.3f_loss%.3f.dat" %
                                     (epoch, bleu, bleu_test, np.mean(losses)))
             torch.save(net.state_dict(), out_name)
 
