@@ -1,0 +1,81 @@
+input: xin chào
+output: cô khỏe chứ
+
+input: chào cậu nhé
+output: chào
+
+input: chào cậu nhé
+output: chào
+
+input: cậu tên gì thế
+output: là là gặp cậu tuyệt
+
+input: cậu tên gì thế
+output: là là gặp cậu tuyệt
+
+input: cậu ổn chứ
+output: ừ tôi ổn tôi
+
+input: cậu ăn sáng chưa
+output: vâng
+
+input: cậu ăn sáng chưa
+output: vâng
+
+input: cậu có gì cho tôi ăn nào
+output: tớ nghĩ tớ biết có chút nào
+
+input: chúc mừng sinh nhật
+output: vâng
+
+input: cậu biết mấy giờ rồi không
+output: có nó là
+
+input: cậu biết mấy giờ rồi không
+output: có nó là
+
+input: tôi đang rất buồn
+output: không vấn_đề là
+
+input: chúc mừng năm mới
+output: còn cô thì sao
+
+input: xin chào
+output: cô khỏe chứ
+
+input: xin chào
+output: cô khỏe chứ
+
+input: cậu bao nhiêu tuổi
+output: vâng
+
+input: cậu sống ở đâu
+output: ở bến tàu
+
+input: cậu sống ở đâu
+output: ở bến tàu
+
+input: cậu có tiền không
+output: có
+
+input: cậu ăn sáng chưa
+output: vâng
+
+input: chúng ta đi ăn nhé
+output: đi tối nay sẽ đi
+
+input: tôi đang buồn
+output: okay được gì
+
+input: tôi yêu cậu
+output: tôi cậu cậu đi đi một người tuyết
+
+input: cậu rảnh không
+output: không
+
+input: cậu có biết mặt trời không
+output: tôi không biết
+
+input: 
+output: sao anh lại đỗ
+
