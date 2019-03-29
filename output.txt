@@ -1,0 +1,81 @@
+input: xin chào
+output: chào cưng
+
+input: chào cậu nhé
+output: chào anh
+
+input: chào cậu nhé
+output: chào anh
+
+input: cậu tên gì thế
+output: không
+
+input: cậu tên gì thế
+output: không
+
+input: cậu ổn chứ
+output: ừ tôi ổn
+
+input: cậu ăn sáng chưa
+output: chưa
+
+input: cậu ăn sáng chưa
+output: chưa
+
+input: cậu có gì cho tôi ăn nào
+output: tớ nói đồ ăn
+
+input: chúc mừng sinh nhật
+output: tạm_biệt đã mang con phút
+
+input: cậu biết mấy giờ rồi không
+output: không
+
+input: cậu biết mấy giờ rồi không
+output: không
+
+input: tôi đang rất buồn
+output: anh không nói gì
+
+input: chúc mừng năm mới
+output: dân it thích 2 phút
+
+input: xin chào
+output: chào cưng
+
+input: xin chào
+output: chào cưng
+
+input: cậu bao nhiêu tuổi
+output: có_lẽ
+
+input: cậu sống ở đâu
+output: ở bến tàu
+
+input: cậu sống ở đâu
+output: ở bến tàu
+
+input: cậu có tiền không
+output: có
+
+input: cậu ăn sáng chưa
+output: chưa
+
+input: chúng ta đi ăn nhé
+output: đưa anh không
+
+input: tôi đang buồn
+output: anh có biết
+
+input: tôi yêu cậu
+output: ông nói gì
+
+input: cậu rảnh không
+output: không
+
+input: cậu có biết mặt trời không
+output: không chẳng hiểu gì cả
+
+input: 
+output: cậu có làm
+
