@@ -44,7 +44,7 @@ def createword2vec(phrase_pairs, wordlist):
         text.append(q)
         text.append(a)
     # print('text: {}'.format(text))
-    model = Word2Vec(text, size=50, window=2, min_count=2, workers=4, sg=1)
+    model = Word2Vec(text, size=50, window=2, min_count=2, workers=4, sg=1, iter=MAX_EPOCHES)
     model.wv.save_word2vec_format('word2vec.txt', binary=False)
 
     fx2 = open("word2vec2.txt", "w", encoding='utf-8', errors='ignore')
