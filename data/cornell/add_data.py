@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+from underthesea import word_tokenize
+
 data_1 = open('data_Dang.txt', 'r', encoding='utf-8', errors='ignore').read().split('\n')[:-1]
 
 data_2 = open('data_Vi.md', 'r', encoding='utf-8', errors='ignore').read().split('\n')[:-1]
@@ -26,7 +28,14 @@ for i in range(0,num_lines):
 #    out.write('\n')
 #    out.write('\n')
     s = '+++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++'
-    out.write('L{} {} {}\n'.format(i+start_i,s,data[i]))
+    l = data[i]
+    l = l.lower()
+    l = l.replace(',', '')
+    l = l.replace('?', '')
+    l = l.replace('!', '')
+    l = l.replace('.', '')
+    l = l.strip()
+    out.write('L{} {} {}\n'.format(i+start_i,s,word_tokenize(l, format="text")))
     
     
 out.close()
