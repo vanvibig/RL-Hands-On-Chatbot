@@ -18,7 +18,7 @@ num_lines = len(data)
 
 start_i = 20740 + 1
 
-for i in range(0,num_lines):
+for i in range(0,num_lines,2):
 #    if i + 2 > num_lines:
 #        break
 #    
@@ -35,7 +35,23 @@ for i in range(0,num_lines):
     l = l.replace('!', '')
     l = l.replace('.', '')
     l = l.strip()
-    out.write('L{} {} {}\n'.format(i+start_i,s,word_tokenize(l, format="text")))
+    l = word_tokenize(l,format='text')
+    
+    l2 = data[i+1]
+    l2 = l2.lower()
+    l2 = l2.replace(',', '')
+    l2 = l2.replace('?', '')
+    l2 = l2.replace('!', '')
+    l2 = l2.replace('.', '')
+    l2 = l2.strip()
+    l2 = word_tokenize(l2,format='text')
+    
+    if len(l.split()) > 10 or len(l2.split()) > 10:
+        continue
+    
+    out.write('L{} {} {}\n'.format(i+start_i,s,l))
+    
+    out.write('L{} {} {}\n'.format(i+start_i+1,s,l2))
     
     
 out.close()

@@ -438,8 +438,6 @@ L21177 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi cần ba bản tài_li
 L21178 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây tài_liệu của anh đây
 L21179 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng làm lộn_xộn nữa
 L21180 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi có làm gì đâu
-L21181 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là tập hồ_sơ quan_trọng hãy lưu chúng trên máy_tính và bản cứng
-L21182 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vâng tôi sẽ làm nó ngay
 L21183 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã khởi_nghiệp tại thủ_đô hà nội
 L21184 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ôi thật ngưỡng_mộ bạn
 L21185 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bảng báo_giá các mặc hàng đây
@@ -518,12 +516,8 @@ L21257 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi là một thám_tử l
 L21258 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu thật khoác_lác
 L21259 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ và từ ấy ánh mắt anh hồn_nhiên đến lạ
 L21260 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nên anh lùi_bước về sau để thấy em rõ hơn
-L21261 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cả nguồn sống bỗng_chốc thu bé lại vừa bằng một cô gái
-L21262 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lời bài hát mà
 L21263 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ công_chúa ngủ chưa
 L21264 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ công_chúa đang đợi hoàng_tử đến mà
-L21265 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cả hai người đang làm cái quỷ gì ở đây vậy
-L21266 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không gì
 L21267 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ còn tôi thì sao
 L21268 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không sao đâu cô_nương
 L21269 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế là đủ rồi
@@ -536,8 +530,6 @@ L21275 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dĩ_nhiên là không
 L21276 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà không hiểu được đâu
 L21277 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi có ngu không
 L21278 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng tự_ti như_thế
-L21279 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ còn con dao mà bà đã mang theo cả tháng thì sao
-L21280 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ đem nó giết kẻ phụ tôi
 L21281 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta chưa bao_giờ có một cơ_hội tốt hơn
 L21282 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ và chúng_ta chỉ có ba ngày
 L21283 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm cho tôi hai quả trứng chiên
@@ -556,18 +548,10 @@ L21295 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi giúp đồng_nghiệp 
 L21296 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông ta không cần tôi đâu
 L21297 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi ra ngoài và cẩn_thận
 L21298 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ chứ ý
-L21299 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ loại bữa tối nào cho những bé trai tuổi đang lớn thế này
-L21300 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ một lát xúc_xích và hai thìa khoai_tây ép nát
 L21301 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng nên ăn những gì chúng được cho ăn
 L21302 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin cho thêm thức_ăn
-L21303 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông không phải là một sĩ_quan ra_lệnh mà là một nhà_buôn súp
-L21304 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin_lỗi tôi quên điều đó rồi
-L21305 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng cần cá đắt tiền
-L21306 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi mua nó nhưng ở một giá mà tôi có_thể chi nổi
 L21307 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không phải tiền của ông ta
 L21308 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ là của tôi
-L21309 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhưng khi ông ta tấn_công bọn nhỏ nó làm tôi ghê_tởm
-L21310 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không chịu nổi chuyện đó
 L21311 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bình_tĩnh lại đi
 L21312 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy không tốt cho bà đâu
 L21313 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi muốn chết và không trông thấy hắn nữa
@@ -588,8 +572,6 @@ L21327 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà vẫn còn cha_mẹ ch�
 L21328 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không
 L21329 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có mấy người ở trong nhà à
 L21330 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ báo cảnh_sát mau
-L21331 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ với tình_trạng tim của cô ta không lâu đâu
-L21332 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau khi cô ta chết chúng_ta sẽ chung cái trường này
 L21333 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thật là kinh_khủng
 L21334 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà không tin tôi à
 L21335 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ câu trả_lời của bà là gì
@@ -598,8 +580,6 @@ L21337 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi vẫn chưa nhận đ�
 L21338 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho tôi nợ
 L21339 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng hành_hạ tôi tôi bẽ_mặt quá rồi
 L21340 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà cũng biết xấu_hổ à
-L21341 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã nghĩ tôi sẽ đưa nó cho bà ngày_mai hay ngày mốt
-L21342 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rốt_cuộc là ngày nào
 L21343 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_tôi đã dựa vào số tiền đó
 L21344 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không cần đâu
 L21345 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng lo tôi sẽ đến tối nay
@@ -616,16 +596,12 @@ L21355 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nói đi
 L21356 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ biết nói là tại_sao
 L21357 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà thấy đó nó không cắn bà đâu
 L21358 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm tôi hết hồn
-L21359 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô nghĩ tôi có_thể bỏ ra cả cuối tuần ở poitou cho cô à
-L21360 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không nghĩ vậy
 L21361 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế còn xăng thì sao
 L21362 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô đang nói về cái gì vậy
 L21363 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đang nói với ông rằng chúng_ta cần phải ly_hôn
 L21364 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi muốn một cuộc ly_dị
 L21365 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông còn trẻ ông còn khỏe
 L21366 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã là một ông_già rồi
-L21367 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trường là của tôi trao cho ông khi lấy nhau nên tôi sẽ lấy lại
-L21368 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ không tranh_giành với ông
 L21369 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ đi xe_lửa ngày_mai
 L21370 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hắn tới ngày_mai trên chuyến tầu tối
 L21371 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà khờ quá bà sẽ cảm_lạnh đó
@@ -656,16 +632,10 @@ L21395 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi chắc hắn sẽ khô
 L21396 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ là hắn đấy
 L21397 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để cái này ở đó đi
 L21398 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dừng lại
-L21399 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu bà bỏ lỡ cơ_hội của bà hắn sẽ không bỏ lỡ cái của hắn
-L21400 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm ơn giúp tôi đi
 L21401 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi cũng can_dự vào vậy và bà đã bỏ tôi
 L21402 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không đáng ký lô nào cả
 L21403 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi chỉ là một kẻ bại_hoại một kẻ bại_hoại nhỏ_nhoi
 L21404 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó là điều hắn đã nói
-L21405 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ điều hối_tiếc duy_nhất của tôi là hắn sẽ không bao_giờ biết rằng
-L21406 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ biết điều gì
-L21407 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_tôi đang nghe radio khi chúng_tôi vừa ăn xong bữa tối
-L21408 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chương_trình gì thế
 L21409 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ quý thính_giả thân_mến quý vị vừa nghe chuyện khuya
 L21410 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ôi thật kinh_khủng
 L21411 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô tự hãnh_diện hả
@@ -674,8 +644,6 @@ L21413 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không muốn để ng
 L21414 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là bí_mật của chúng_ta
 L21415 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã rời khỏi trường như một thằng ăn_trộm
 L21416 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện gì xảy ra với anh vậy
-L21417 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã không_thể nói cho ông ta biết tôi đang đi đâu
-L21418 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông ta sẽ tiết_lộ tung_tích của ta
 L21419 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi nghĩ rằng thế_là rõ_ràng
 L21420 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ trở_lại sau khi chúng_ta ly_dị
 L21421 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô đã quyết_định ly_dị
@@ -688,14 +656,6 @@ L21427 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ luật_sư của tôi khôn
 L21428 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô có một luật_sư à
 L21429 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ luật_sư buồn_cười thật
 L21430 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dĩ_nhiên
-L21431 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô đã nói với ông ta tất_cả mọi bí_mật về đời_tư của chúng_ta
-L21432 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi chỉ làm tròn trách_nhiệm của bản_thân
-L21433 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông đã không nói về chúng_ta với người_yêu của ông sao
-L21434 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta vẫn có những bí_mật à
-L21435 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có những chi_tiết mà
-L21436 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ta không_thể bịa ra ông ta có_thể bịa ra mọi chuyện
-L21437 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có chúa biết cô ta đã nói gì với luật_sư
-L21438 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ đến gặp ông ta và làm rõ mọi chuyện
 L21439 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô không được cản tôi
 L21440 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để sau đi
 L21441 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông ta có_thể đang ăn tối lúc này
@@ -706,12 +666,8 @@ L21445 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ sẽ lấy các học_
 L21446 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tất_nhiên
 L21447 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi mặc những bộ quần_áo cũ
 L21448 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình giầu mà lại sống như người nghèo
-L21449 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô có biết tôi đã trả bao_nhiêu cho chuyến đi này không
-L21450 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó là chuyện của anh
 L21451 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã làm tất_cả những cái đó vì cô
 L21452 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không hối_tiếc chuyện đó
-L21453 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhưng khi cô đá tôi ra nó làm tôi bực_dọc cô nương
-L21454 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông biết không ông đã làm tôi khốn_khổ
 L21455 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khoan đã
 L21456 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng có cố nói_dối
 L21457 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông không được nói_dối bây_giờ
@@ -754,16 +710,12 @@ L21493 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thật là cô bé tội_ng
 L21494 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cuộc_sống mà
 L21495 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ta đã can_dự vào thú_vui của tôi
 L21496 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hãy cho cô ta biết thế_nào là lễ_độ
-L21497 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi có quyền gửi một lá thư bảo_đảm cho cô ta
-L21498 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó là quyền của ông
 L21499 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà đang tìm cái gì vậy
 L21500 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vé khứ_hồi của hắn
 L21501 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bức tượng trên bàn lò_sưởi
 L21502 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đưa nó cho tôi
 L21503 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hắn có bị đau_đớn gì không
 L21504 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hắn đã không cảm_thấy gì cả
-L21505 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình đi ngay và đem hắn trở_lại đêm nay
-L21506 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế còn giấy chứng_nhận đang ở chỗ khác của chúng_ta thì sao
 L21507 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông đang tính thức cả đêm đấy à
 L21508 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ cho cô ta tới nửa_đêm
 L21509 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ phải biết tốn bao_nhiêu cho họ chứ
@@ -812,14 +764,10 @@ L21551 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình trực_tiếp gặp n
 L21552 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình vui_vẻ trong game là được rồi
 L21553 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao tự_dưng lại mất điện
 L21554 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc đứt cầu_chì
-L21555 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ chỉ nấu mì thôi mà sao cầu_chì lại đứt được
-L21556 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đại tỉ à trước khi nấu gì sao không tính lượng điện_lưu
 L21557 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ học khoa máy_tính chứ đâu phải khoa điện
 L21558 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nào cũng cần điện thôi
 L21559 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mì vẫn đang nấu dở
 L21560 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chia cho tớ một nửa mì
-L21561 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chẳng trách gái khoa kỹ_thuật như ta khó tìm được ý_trung_nhân
-L21562 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu đúng là đồ đàn_ông
 L21563 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu đền_bù tổn_hại thanh_danh của tớ ra sao
 L21564 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ sẽ lấy tấm thân vàng_ngọc này
 L21565 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu lại xem trộm tớ đấy à
@@ -836,14 +784,10 @@ L21575 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phí cả một ngày đẹ
 L21576 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu dám nói thế
 L21577 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai phá máy của tớ
 L21578 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây
-L21579 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau khi mang máy tới tiệm mình đi xem phim đi
-L21580 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình không còn tiền
 L21581 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không_thể sống thiếu máy_tính một ngày
 L21582 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dạ vâng
 L21583 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chớp_mắt đã học năm hai rồi
 L21584 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta già thật rồi
-L21585 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nam_sinh nhiều hơn nữ nhất là khoa máy_tính
-L21586 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không nghĩ sau bao năm mình chưa có bạn trai
 L21587 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu không chọn khoa vì lý_do_đó đấy chứ
 L21588 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dĩ_nhiên là không hẳn
 L21589 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khoa máy_tính ở đây xịn nhất nước mà
@@ -852,8 +796,6 @@ L21591 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi coi chuyện gì đi
 L21592 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có chuyện gì thế
 L21593 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình lại được xem anh ấy đấu rồi
 L21594 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ôi tớ cũng vậy
-L21595 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giờ anh ấy học năm cuối hiếm khi tới trường lắm
-L21596 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ mong được gặp anh ấy
 L21597 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe nói diễn_đàn thần_bí cũng không hề được cập_nhật
 L21598 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có khi đây là chiêu trò quảng_cáo
 L21599 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi xem thử cũng đâu mất gì
@@ -904,8 +846,6 @@ L21643 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe bố cháu nói là ch
 L21644 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kế_hoạch là thế ạ
 L21645 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ công_ty gì
 L21646 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ công_ty về game
-L21647 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu cháu thắng ván này cậu sẽ tặng một món quà
-L21648 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được
 L21649 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đâu có muộn
 L21650 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ muộn hay không cô vẫn sẽ thua
 L21651 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bắt_đầu nào
@@ -920,18 +860,12 @@ L21659 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trình_độ đó mà chỉ
 L21660 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai là hạng nhất nhỉ
 L21661 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ là nhất tiếu nại hà trong truyền_thuyết à
 L21662 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ chưa từng gặp anh ta
-L21663 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao anh ta có_thể lấy tên như vậy cho mình nhỉ
-L21664 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cái tên tự phụ quá
 L21665 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi chỉ trả tiền cho một giờ thôi
 L21666 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đấu nhanh đi cho xong
-L21667 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu thắng ván này nên cậu sẽ tặng cháu một món quà gì
-L21668 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tặng cháu nơi này đó
 L21669 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu không lấy à
 L21670 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không ạ
 L21671 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu rất có tham_vọng
 L21672 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu chỉ nghĩ sẽ vui hơn nếu tay_trắng lập_nghiệp
-L21673 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu đã tìm được địa_điểm rồi
-L21674 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cả hai ta đúng là có gien đột_biến thì mới thích máy_tính vậy
 L21675 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu thấy cháu giống y_như cậu
 L21676 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu không có sức quản_lý chỗ này nữa
 L21677 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu cháu không lấy cậu cũng đóng cửa nó thôi
@@ -966,10 +900,6 @@ L21705 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu biết nó ở đâu 
 L21706 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngay đây này
 L21707 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu nói cậu ghi_chép mỗi ngày
 L21708 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có trời mới biết cậu đang làm gì
-L21709 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đời cậu không_thể làm gì khác ngoài học chơi game online à ghi_chú sao
-L21710 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không cần gì khác
-L21711 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng coi_thường nha
-L21712 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không chừng sau_này nó giúp tớ thành nhà phát_triển game đó
 L21713 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ sẽ vào công_ty công_nghệ fpt
 L21714 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không hiểu nổi
 L21715 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đúng là não của sinh_viên hàng_đầu khác não bình_thường
@@ -978,8 +908,6 @@ L21717 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ phải viết bài
 L21718 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chờ ở đây nhé một_chút là xong thôi
 L21719 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ấy khá xinh
 L21720 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không xinh bằng cậu
-L21721 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mặt cô ta là kiểu truyền_thống chả có gì đặc_biệt
-L21722 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu đi đóng_phim cô ta chỉ được làm nhân_vật phụ thôi
 L21723 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ta không tao_nhã như cậu
 L21724 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng nói cô ấy thế
 L21725 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ xin_lỗi vì đã nói thật
@@ -1002,8 +930,6 @@ L21741 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung_mạo có_thể lừa 
 L21742 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng ngây_thơ như thế
 L21743 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đằng nào mình cũng cần đi thực_tập hè
 L21744 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nên đăng_ký luôn đi
-L21745 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu sửa được thật à
-L21746 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau này máy tớ hỏng phần_cứng gì cũng nhờ cậu sửa cả
 L21747 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hân_hạnh phục_vụ
 L21748 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu đúng là số một
 L21749 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chơi game ngay sau khi sửa máy à
@@ -1144,8 +1070,6 @@ L21883 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi trước dẫn đườn
 L21884 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi
 L21885 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng nói là sáu giờ mới tới
 L21886 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phải khởi_động trước khi vào trận chứ
-L21887 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bọn em tới sớm thế để không bỏ lỡ màn khởi_động
-L21888 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em đến xem anh hay xem anh ấy
 L21889 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dĩ_nhiên là tới xem anh ấy rồi
 L21890 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh thật thất_vọng về em
 L21891 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh có gì đáng xem chứ
@@ -1200,8 +1124,6 @@ L21939 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là danh_thiếp củ
 L21940 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rất vui khi được hợp_tác với ông
 L21941 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bài thuyết_trình của cậu rất hay
 L21942 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cảm_ơn ông đã lắng_nghe
-L21943 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thứ năm này cậu có rảnh tới văn_phòng tôi bàn_bạc không
-L21944 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc_chắn tôi sẽ tới công_ty ông vào thứ năm
 L21945 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mời đi trước
 L21946 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cảm_ơn bạn đã nhường đường
 L21947 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ gặp mặt rồi mới biết
@@ -1212,8 +1134,6 @@ L21951 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta cũng vừa_mới lên
 L21952 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao đông người thế
 L21953 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao họ lại tới
 L21954 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ muội hỏi họ đi
-L21955 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giờ huynh ấy đã kết_hôn sao ta có_thể không đến góp_vui chứ
-L21956 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ những người rảnh_rỗi trong bang ta đều đã tới đây
 L21957 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ sẽ cưỡi ngựa đi sau xe ngựa
 L21958 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc_chắn cảnh_tượng sẽ hoành_tráng
 L21959 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ người trong bang ta cũng đã tới
@@ -1320,8 +1240,6 @@ L22059 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi là gia_sư của cậ
 L22060 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu dạy gì
 L22061 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kế bên là người mẹ đơn thân của cậu bé
 L22062 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu bé thật đáng thương
-L22063 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hôm đó mẹ của cậu bé tiện đường đưa tôi về trường
-L22064 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thì ra là vậy
 L22065 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu muốn gì với bài đăng
 L22066 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xóa bài đăng và lập_tức xin_lỗi tôi
 L22067 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai biết được tấm ảnh này là thật hay giả
@@ -1348,8 +1266,6 @@ L22087 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ sẽ cổ_vũ cho cậ
 L22088 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ quẩy lên mọi người
 L22089 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao cậu không thương_xót cho cô gái hiền_lành như tớ
 L22090 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu định cho tớ vào hang_cọp à
-L22091 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ người như cậu ta không động vào sợi tóc của cậu đâu
-L22092 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu không thương tớ
 L22093 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao cậu không lo
 L22094 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có gì mà phải lo chứ
 L22095 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tin_tức giả đâu thể thành_thật được
@@ -1372,8 +1288,6 @@ L22111 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta để chế_độ tự_�
 L22112 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngươi thật bỉ_ổi
 L22113 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hai người phơi ta đến chết cũng được
 L22114 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngươi sẽ không chết đâu
-L22115 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khi máu ngươi sắp hết ta sẽ hồi máu cho ngươi
-L22116 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đồ hèn_hạ
 L22117 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao hắn không thoát trò_chơi thay_vì chịu tra_tấn
 L22118 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hắn thật thâm_độc
 L22119 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta nghe điện_thoại đã
@@ -1444,8 +1358,6 @@ L22183 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta không muốn phí tiề
 L22184 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi thôi
 L22185 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cởi trói rồi hãy đi chứ
 L22186 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta đi đây
-L22187 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta thấy hắn bảo cần sách kỹ_năng linh thú trên kênh trò_chuyện chung
-L22188 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế ngươi có đưa hắn không
 L22189 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao làm nhiệm_vụ liên_hoàn_lại cần sách kỹ_năng linh thú
 L22190 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhiều loại nhiệm_vụ cũng cần sách này mà
 L22191 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta tới đó đợi một lúc thì hắn xuất_hiện
@@ -1454,8 +1366,6 @@ L22193 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trí_nhớ của huynh tố
 L22194 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta có_thể nhớ tất_cả
 L22195 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao không xử_lý luôn
 L22196 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta sợ hắn sẽ kéo đồng_bọn
-L22197 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ miếng ăn đến miệng còn rơi mất chẳng phải nhớ lâu hơn sao
-L22198 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phải vậy huynh lợi_hại thật
 L22199 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cảm_ơn huynh
 L22200 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhiệm_vụ của ta mà
 L22201 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không phải vậy
@@ -1564,8 +1474,6 @@ L22303 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh tò_mò đấy
 L22304 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh làm em ngại đó
 L22305 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh hỏi cậu giúp em nhé
 L22306 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được rồi
-L22307 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh sẽ hỏi bố cho em nhưng không được thì đừng trách
-L22308 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em tin_tưởng anh mà
 L22309 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi nghĩ công_ty huadun được đấy
 L22310 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhưng họ không có nhiều vốn
 L22311 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nên chọn chỗ có năng_lực phân_phối và truyền_thông
@@ -1586,12 +1494,8 @@ L22325 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng lắc tôi nữa
 L22326 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trò_chơi đang vui mà
 L22327 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xong việc rồi
 L22328 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhậu đê
-L22329 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu lại không ở ký_túc_xá à
-L22330 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khi nào các cậu giặt hết tất bẩn thì tôi sẽ về
 L22331 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tạm_biệt
 L22332 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tạm_biệt
-L22333 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em không cần biết hè này anh phải đến bắc kinh thăm em
-L22334 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh sẽ cố_gắng sắp_xếp
 L22335 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hạt quả hồ_đào và hạt mắc ca đang giảm giá
 L22336 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ các cậu mua không
 L22337 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho tớ hai túi hạt mắc ca
@@ -1618,8 +1522,6 @@ L22357 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hôm_nay cháu không có l
 L22358 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hôm_nay cháu được nghĩ
 L22359 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em ấy nhờ con tìm chỗ thực_tập
 L22360 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu cho cháu thực_tập ở đây nhé
-L22361 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy cháu có_thể tới đây mỗi ngày và bóp vai cho cậu
-L22362 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu đến thì được thôi
 L22363 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bố_mẹ cháu lại trách cậu
 L22364 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu đừng lo
 L22365 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cháu hứa sẽ cân_bằng việc học và làm
@@ -1710,18 +1612,12 @@ L22449 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu tử_tế quá nhưng
 L22450 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi vẫn không hiểu
 L22451 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nói_chuyện đi nhé
 L22452 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chào
-L22453 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu cậu em nói gì không phải thì anh đừng giận nhé
-L22454 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô đùng nói thế
-L22455 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay để em thuyết_phục cậu giúp các anh có điều_kiện tốt hơn
-L22456 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không cần đâu
 L22457 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ với địa_vị của cô như_vậy có_lẽ không thích_hợp
 L22458 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hẹn cậu ở dưới nhé
 L22459 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em thích cậu ta hả
 L22460 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em không cần biết miền là em thích
 L22461 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy tuyệt_vời lắm
 L22462 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bằng anh không
-L22463 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là công_ty của bố anh anh đâu được quyền định_đoạt
-L22464 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy em sẽ tự thuyết_phục cậu
 L22465 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhớ chưa
 L22466 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rồi
 L22467 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu cần tớ sẽ huấn_luyện các cậu sau
@@ -1796,8 +1692,6 @@ L22535 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giờ chờ thông_báo th�
 L22536 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hồi hợp quá
 L22537 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ húng ta có thực_lực
 L22538 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình tin là sẽ ổn thôi
-L22539 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu họ không biết cậu ở cùng chúng_tớ khả_năng đỗ của chúng_tớ sẽ cao hơn đấy
-L22540 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lại đây ớ hứa không đánh_chết cậu
 L22541 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lại đây
 L22542 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thôi nào
 L22543 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thôi đi các cậu lớn rồi đó
@@ -1816,8 +1710,6 @@ L22555 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhà không có người à
 L22556 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là nhà của tôi
 L22557 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em ở nhà một_mình à
 L22558 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mẹ em ra ngoài rồi
-L22559 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh là gia_sư tiếng anh mà chị vy vy đã nói tới à
-L22560 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phải
 L22561 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh trông thường quá
 L22562 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tùy em nhận_xét
 L22563 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu sẽ không giận một đứa bé chứ
@@ -1868,8 +1760,6 @@ L22607 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ muốn thành_lập_trình_
 L22608 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em ghét tiếng anh
 L22609 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao chị không dạy em tiếng anh
 L22610 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chị không đủ giỏi tiếng anh
-L22611 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu em không thích anh ấy mình sẽ tìm người khác
-L22612 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vâng ạ
 L22613 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hôm khác anh lại đến
 L22614 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hẹn gặp lại
 L22615 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh này là bạn trai chị à
@@ -1904,8 +1794,6 @@ L22643 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tai_nạn xe
 L22644 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tai_nạn xe à
 L22645 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu bé dạy tôi
 L22646 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nó dạy cậu sao
-L22647 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mục_đích của đời tôi ít_nhất là hiện_giờ là thành nhà thiết_kế game
-L22648 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ học công_nghệ_thông_tin có khác
 L22649 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ở nhà một_mình à
 L22650 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đúng vậy
 L22651 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vì hôm phỏng_vấn trót nói_dối về nó
@@ -1990,14 +1878,10 @@ L22729 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vy vy an_ủi tớ đi
 L22730 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có chuyện gì
 L22731 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có đau lắm không tới phòng y_tế nhé
 L22732 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không cần đâu
-L22733 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lần sau gặp lại tên đó tớ sẽ cho hắn biết tay
-L22734 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu có_vẻ ổn rồi
 L22735 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nằm nghỉ chút đi
 L22736 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ừ
 L22737 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô phải biết rồi chứ
 L22738 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi thôi
-L22739 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ máy_tính của ta không mạnh lát nữa gửi video cho ta
-L22740 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được thôi
 L22741 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tam tẩu rốt_cuộc cũng tới
 L22742 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện gì vậy
 L22743 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tẩu không biết đoạn video kia à
@@ -2026,8 +1910,6 @@ L22765 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngươi nói sẽ bỏ hai 
 L22766 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta đã bỏ hai trang_bị rồi cô không thấy sao
 L22767 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đáng thương quá
 L22768 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đáng đời
-L22769 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phải mất cả tháng mới lấy lại được một cấp tu_vi
-L22770 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đáng đời
 L22771 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chán quá đi
 L22772 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế này là trận đấu một chiều rồi
 L22773 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm ta xem cũng thấy đau_lòng
@@ -2084,8 +1966,6 @@ L22823 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ con nhỏ đó muốn gì
 L22824 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc thấy tớ đẹp_trai nên muốn làm_quen
 L22825 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy cũng lạnh_lùng quá
 L22826 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đẹp_trai phải lạnh_lùng rồi
-L22827 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đứng xa thế này mà tớ cũng nghe thấy tiếng trái_tim cô gái kia tan_nát
-L22828 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu đừng nói_bậy
 L22829 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ nghĩ ra rồi
 L22830 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện gì
 L22831 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không ai ngồi đây à
@@ -2126,8 +2006,6 @@ L22865 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ta nghĩ cậu không x
 L22866 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ chưa thua cô ta đâu
 L22867 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu có nhiều bạn gái giúp cậu ấy đi
 L22868 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được
-L22869 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ muốn cưa đổ con_gái phải thuận theo những gì cô ấy thích
-L22870 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu đúng là cao_thủ tình_trường
 L22871 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô thích gì
 L22872 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tránh ra tôi không thích nói_chuyện với mấy người
 L22873 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ăn gì tớ đãi
@@ -2256,8 +2134,6 @@ L22995 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cướp đây
 L22996 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bớ người_ta ăn_cướp
 L22997 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta cũng không biết làm gì
 L22998 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy đi ngủ đi
-L22999 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta không phải kẻ xấu nhất nhưng dĩ_nhiên cũng vẫn xấu_xa
-L23000 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đồ tồi
 L23001 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chàng hãy đi đi
 L23002 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ còn nàng
 L23003 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cuối_cùng ta cũng được hưởng an_bình
@@ -2278,8 +2154,6 @@ L23017 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bọn tôi cười vỡ_b�
 L23018 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ các người thật quá_đáng
 L23019 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ các cậu giấu tất cho kỹ
 L23020 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ làm mà
-L23021 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ con trai không giặt tất từ mười ngày tới nửa tháng
-L23022 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện bình_thường
 L23023 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ các huynh học ngành máy_tính
 L23024 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuẩn
 L23025 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta là gái công_nghệ
@@ -2422,8 +2296,6 @@ L23161 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu có xin số điện_
 L23162 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tất_nhiên là không rồi
 L23163 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cái gì
 L23164 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm gì mà cậu hốt_hoảng thế
-L23165 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cơ_hội ngon như thế mà cậu không thèm nói một lời
-L23166 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ chỉ biết im_lặng thôi
 L23167 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mặt cậu đúng là vứt đi
 L23168 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng làm tớ buồn mà
 L23169 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để lần sau
@@ -2434,10 +2306,6 @@ L23173 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kể lại mọi tình_ti�
 L23174 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thôi đi tớ chưa đủ nhục à
 L23175 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ số cậu quá đỏ rồi
 L23176 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chỉ thấy toàn màu đen
-L23177 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lần sau mà gặp anh ta cậu phải nói nhiều hơn
-L23178 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ biết rồi
-L23179 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nữ thần của cậu kia hả mau ra giúp cô ấy bê nước kìa
-L23180 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không cần tôi có cách khác
 L23181 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi vào nhóm thôi
 L23182 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi nào
 L23183 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mặt_trời mọc đằng tây rồi à
@@ -2458,8 +2326,6 @@ L23197 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có tiền không cho tớ 
 L23198 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng hòng
 L23199 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao lại thế này
 L23200 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mọi chuyện ông trời đã định sẵn
-L23201 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu người khác biết mình xem rồi khóc thì có mất_mặt quá không
-L23202 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta xem rồi hay lắm
 L23203 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thời_lượng bao_lâu
 L23204 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ năm phút
 L23205 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hướng_dẫn cũng nghiên_cứu kỹ
@@ -2538,8 +2404,6 @@ L23277 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ gã ngốc này kêu mình 
 L23278 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng nên tự_tin quá cô gái à
 L23279 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe nịnh cả ngày cũng thích
 L23280 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được rồi tiểu_thư
-L23281 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hiếm khi gặp người kém hơn cả mình lúc mới chơi
-L23282 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kêu hắn nhận cậu làm sư_phụ đi
 L23283 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sư_phụ
 L23284 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngộ không
 L23285 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có ai_ngờ
@@ -2802,8 +2666,6 @@ L23541 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đúng là tiên_đồng ng
 L23542 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ còn đây là ngưu lang chức nữ
 L23543 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tình_yêu và dũng_khí đã giúp hai người vượt qua thử_thách
 L23544 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không có chi
-L23545 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hai người có tự_tin sẽ là cặp_đôi đầu_tiên phá giải được nó
-L23546 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_tôi tự_tin
 L23547 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thử_thách này khó cỡ nào
 L23548 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khó hơn chúng_ta tưởng đó
 L23549 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy là mình không thoát ra được
@@ -2844,8 +2706,6 @@ L23583 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thì ra là như vậy
 L23584 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ như vậy là sao
 L23585 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe nói nó vô_cùng gian_nan thiếu hiệp phải rất cẩn_thận
 L23586 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta có bí kiếp
-L23587 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mọi tình_ái và ân_oán trên đời đều khó đoán và chóng tàn
-L23588 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ triết_lý quá
 L23589 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không ngờ lại thấy có kẻ tới được đây
 L23590 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vượt qua gian_nan khổ_cực ta mới tới được đây
 L23591 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngươi sẵn_lòng hi_sinh mọi thứ để cứu nương_tử chứ
@@ -2990,8 +2850,6 @@ L23729 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ an_tâm chuyện thi_cử
 L23730 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ còn chưa thuộc chữ nào đây
 L23731 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai thèm lo bài_tập của cậu
 L23732 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ lo là cậu bị lừa đó
-L23733 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu không thấy là cậu đang rơi vào lưới tình à
-L23734 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lo làm chuyện mình đi
 L23735 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đắp mặt_nạ đi
 L23736 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ đang làm thế mà
 L23737 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giao_thông ở đây kinh_khủng quá
@@ -3078,8 +2936,6 @@ L23817 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ may là cậu không nói
 L23818 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế là sao
 L23819 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ngốc hay sao
 L23820 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mình biết mình ngốc
-L23821 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dù việc lôi_kéo có thành_công hay không thì cậu của cậu đã là người xấu rồi
-L23822 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không muốn làm người xấu
 L23823 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhưng tớ vẫn nghĩ
 L23824 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện vẩn_vơ à
 L23825 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ đã tìm_hiểu hộ cậu rồi
@@ -3192,12 +3048,8 @@ L23931 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ có_thể là đối_t
 L23932 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta phải dè_chừng họ rồi
 L23933 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy buổi giao_lưu game điện_thoại là vỏ bọc
 L23934 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ nghĩ là vậy
-L23935 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ biết được địch_thủ của mình là hạng người nào là rất cần_thiết
-L23936 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ các người hãy cẩn_thận
 L23937 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cứ nhắm_mắt cho qua đi
 L23938 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu dễ vậy sao
-L23939 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ người mời được các cậu về cũng sẽ mời được tôi về
-L23940 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thật cảm_động khi nghe cậu nói câu đó
 L23941 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đấu một trận không
 L23942 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đấu thì đấu ai sợ ai
 L23943 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai thắng được chọn phòng làm_việc trước
@@ -3250,12 +3102,8 @@ L23989 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chị làm_việc khác đi
 L23990 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không chị sẽ xem_chừng em
 L23991 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em không thắng nổi đâu
 L23992 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em sẽ kiên_quyết tới_cùng
-L23993 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bảo anh ấy rằng em là trẻ_con xin anh ấy nhẹ_tay
-L23994 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không được em là đàn_ông
 L23995 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em phải đấu bằng chính sức mình
 L23996 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tự_lực cánh_sinh đi em
-L23997 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ta nói chị bắt_nạt người yếu như đội cô ta
-L23998 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế em có tin không
 L23999 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chị ra ngay
 L24000 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để xem nào
 L24001 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chị chỉ đòi lại công_đạo cho họ thôi
@@ -3346,8 +3194,6 @@ L24085 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta với anh ta chỉ là b
 L24086 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta không tin đâu
 L24087 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao ta không_thể xem đấu tích điểm
 L24088 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ do chưa đủ cấp để xem thôi
-L24089 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đám độc_thân chúng_ta phải đứng ở ngoài chơi với nhau à
-L24090 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta không muốn chơi với bọn này đâu
 L24091 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế nên họ tàn_nhẫn và ác_ý thế này
 L24092 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ đến rồi kìa
 L24093 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi nên cầu_nguyện cho họ
@@ -3530,8 +3376,6 @@ L24269 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đặc_biệt
 L24270 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tất_nhiên người định_mệnh mình sẽ đến
 L24271 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là thư_ký của bố tớ
 L24272 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin chào thư_ký ạ
-L24273 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy sống ở nước_ngoài và biết nói tiếng anh pháp đức
-L24274 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giỏi quá
 L24275 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao lại thế hả tiến_sĩ
 L24276 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao chỉ có cậu được đi đến
 L24277 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ta luôn ăn lẻ một_mình thế mà
@@ -3546,20 +3390,14 @@ L24285 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi có nhiều đứa ch�
 L24286 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó chỉ là một câu_đố thôi mà
 L24287 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta không_thể làm nếu không có anh
 L24288 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy là mình không ăn dưa được à
-L24289 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đúng như bác nghĩ bác biết rằng cháu biết câu trả_lời
-L24290 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu thông_minh quá
 L24291 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy là cũng trong nhóm thám_tử
 L24292 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu nói đúng
 L24293 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi tò_mò về quả trứng khác
 L24294 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ quả trứng nào
 L24295 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bảo_tàng nghệ_thuật hiện_đại của tập_đoàn mà
 L24296 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bảo_vệ rất nghiêm_ngặt
-L24297 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có_vẻ như cả một con kiến cũng không lọt vào được
-L24298 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tất_nhiên vì nơi này tối_tân nhất mà
 L24299 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ một kẻ biết đến với tên siêu trộm
 L24300 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mỗi lần ra_tay là mỗi lần thành_công
-L24301 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngạo_mạn thách_thức giới cảnh_sát và thám_tử
-L24302 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ một tên trộm như thế mới xứng_đáng làm đối_thủ của chúng_ta
 L24303 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lại cái thằng nhóc đó
 L24304 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tại_sao cậu luôn gọi thế
 L24305 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ à xin_lỗi mắt của nó giống như mắt anh ấy
@@ -3568,16 +3406,10 @@ L24307 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mới sáng sớm cậu ta 
 L24308 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tại_sao cậu không đến bác_sĩ kiểm_tra
 L24309 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó có phải thám_tử trung_học miền tây
 L24310 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ấy nhìn cũng được đấy chứ
-L24311 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tuy hay cãi nhau nhưng mối quan_hệ của họ rất tốt
-L24312 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ biết rồi trông rất giống cậu ấy
-L24313 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ cũng muốn gặp cậu bạn trai từ thuở nhỏ của cậu quá
-L24314 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ta có bao_giờ xuất_hiện đâu mà gặp
 L24315 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cảm_ơn vì ngài đã đến đây
 L24316 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rất hân_hạnh được gặp ông
 L24317 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ là ai thế
 L24318 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó là những con_người đẹp_trai nhất quả_đất này
-L24319 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bác rất vui khi các cháu đến
-L24320 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có chúng_cháu ở đây ông bác đừng lo về quả trứng nha
 L24321 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao mi dám gọi ngài chủ_tịch là ông bác hả
 L24322 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không sao đâu ngài
 L24323 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi sẽ giới_thiệu mọi người
@@ -3588,12 +3420,8 @@ L24327 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nếu ông vui_lòng bán c
 L24328 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ quả trứng phục_sinh đó thuộc về nước nga
 L24329 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tại_sao lại bán cho người không hiểu_biết nghệ_thuật
 L24330 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh dám bảo tôi không hiểu_biết
-L24331 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mọi người cãi nhau làm tăng sự thú_vị về quả trứng
-L24332 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi cho rằng ông nên làm cách khác
 L24333 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô có muốn quả trứng của cô không
 L24334 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có_thể
-L24335 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ôi trời trộm thì không lo mà chỉ toàn nói về quả trứng thôi
-L24336 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta sẽ nói về quả trứng sau
 L24337 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giờ chúng_ta không nên làm gì cả cứ chờ thôi
 L24338 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chờ cho đến bao_giờ
 L24339 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã đem quả trứng đến
@@ -3602,8 +3430,6 @@ L24341 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nào mọi người xin hã
 L24342 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta xem quả trứng thật ư
 L24343 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu không_thể nói nó là châu_báu đâu
 L24344 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nó còn quý hơn kho_báu hả
-L24345 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lúc tớ bé do không biết nên tớ coi nó như đồ_chơi
-L24346 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu thiệt là đồ con nít
 L24347 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu lấy nước mát cho mọi người đi
 L24348 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ các cậu cứ tự_nhiên thoải_mái như nhà của mình đi
 L24349 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nó không đẹp như tớ tưởng
@@ -3640,8 +3466,6 @@ L24379 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ một ai đó chờ_đợi 
 L24380 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc nó nói về cậu ta
 L24381 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc_chắn tớ gặp cậu ấy
 L24382 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ ở ngay đây mà
-L24383 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vấn_đề là làm gì đến lúc xảy ra sự_kiện lúc ba giờ sáng
-L24384 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tại_sao chúng_ta không ăn một cái gì đó
 L24385 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tại_sao cậu không dẫn mọi người đi thăm quan nhỉ
 L24386 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi xin giới_thiệu với mọi người
 L24387 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ còn cậu thì sao
@@ -3678,14 +3502,10 @@ L24417 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vâng cứ theo kế_hoạc
 L24418 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chờ một_chút nó có được trưng_bày không
 L24419 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nó là đồ giả
 L24420 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hàng giả
-L24421 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_tôi có thử đặt mục_tiêu tại nơi mà hắn nói đến trong thông_điệp để bẫy hắn
-L24422 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhưng không_thể làm với hắn một lần nữa
 L24423 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ và bây_giờ kế_hoạch là giấu nó
 L24424 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tới một nơi nào đó mà hắn không biết
 L24425 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hãy nói đi đó là nơi nào
 L24426 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không_thể nói cho anh biết
-L24427 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chỉ những người biết tôi và cấp dưới của tôi biết thôi
-L24428 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy là anh xem_thường tôi à
 L24429 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm cái gì vậy
 L24430 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để chắc_chắn anh không phải là trộm chứ sao
 L24431 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh nói điều điên_rồ gì vậy
@@ -3710,8 +3530,6 @@ L24449 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ biết sẽ có hội 
 L24450 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bây_giờ không phải là lễ_hội pháo_hoa
 L24451 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ở đó rất đông người của chúng_ta
 L24452 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đó không_thể là hắn
-L24453 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hắn sẽ không bao_giờ nghĩ quả trứng thật sẽ cất ở kho
-L24454 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhưng hắn rất là thông_minh
 L24455 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chúng_ta chờ hắn ở chỗ quả trứng
 L24456 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ quả trứng ở đâu
 L24457 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thanh_tra mang nó đi một nơi khác
@@ -3746,8 +3564,6 @@ L24485 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không một ai biết hắ
 L24486 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không thấy xác chắc còn sống
 L24487 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cuộc triển_lãm bị hủy để kiểm_tra
 L24488 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mọi chuyện đang trở_nên rắc_rối hơn
-L24489 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông tôi và bố_mẹ cả hai đã bị tai_nạn xe_hơi từ lâu
-L24490 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ôi thật bất_hạnh cho cô
 L24491 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đã được nuôi dạy bởi bà tôi
 L24492 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bà cô giờ ở đâu
 L24493 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ban_đầu nó được làm bằng ngọc
@@ -3772,8 +3588,6 @@ L24511 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nó được xây bởi c�
 L24512 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ và bà tôi được thừa_kế
 L24513 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lâu_đài đó của gia_đình cô à
 L24514 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nó là nơi trú_ngụ lúc chiến_tranh
-L24515 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ông ấy xây lâu_đài đó và giấu quả trứng kia ở đó
-L24516 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ và để lại thông_điệp được giấu đi
 L24517 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi thực_ra còn tim thấy một chìa_khóa cũ
 L24518 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chính_xác nó là chìa_khóa dẫn đến quả trứng thứ hai
 L24519 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có_thể bán được nhiều hơn một tỷ
@@ -4022,8 +3836,6 @@ L24761 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ấy bị mèo nhà t
 L24762 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có nặng không
 L24763 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có nặng không
 L24764 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vết_thương nhỏ mà chảy máu
-L24765 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ấy phải tiêm nhưng bướng quá không chịu nghe tôi
-L24766 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để tớ tới khuyên cậu ấy nhé
 L24767 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tối nay em ăn gì anh mang qua
 L24768 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không cần đâu
 L24769 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em sẽ đến bệnh_viện xem thế_nào
@@ -4040,8 +3852,6 @@ L24779 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nợ gì thế
 L24780 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ làm hỏng_máy quay
 L24781 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giờ tớ chăm mèo cậu ta để trả nợ
 L24782 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nợ bao_nhiêu
-L24783 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nợ bao_nhiêu
-L24784 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ trả được 2000 tệ rồi nên vẫn còn 3000 tệ
 L24785 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ còn ít tiền
 L24786 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ trả trước cho cậu nhé
 L24787 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ trả trước cho cậu nhé
@@ -4216,8 +4026,6 @@ L24955 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bảo sao anh ấy không t
 L24956 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy là người tốt
 L24957 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em thích tính_cách của anh ấy hơn
 L24958 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em nên giành lấy cậu ta
-L24959 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em nên giành lấy cậu ta
-L24960 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không được giờ anh ấy đang đối_xử rất tốt với bạn gái
 L24961 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em không có tham_vọng
 L24962 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đàn_ông khác phụ_nữ ở điểm đó
 L24963 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh mà thích ai cô ấy sẽ là của anh
@@ -4230,14 +4038,10 @@ L24969 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi đói
 L24970 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao không mua ít quả_hạch để ăn
 L24971 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ của ai vậy hả
 L24972 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ là của ai thì kệ đi
-L24973 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu thấy vui khi trả nợ tôi bằng tiền của bạn_bè ư
-L24974 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ còn hơn là nợ tiền cậu
 L24975 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vậy hôm_nay là ngày cuối cậu tới đây à
 L24976 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ là ngày cuối nhưng không hẳn là ngày cuối
 L24977 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có vẻ cậu đoán đúng đoạn đầu
 L24978 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đoạn cuối thì sao
-L24979 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là lần cuối tôi tới đây với tư_cách con nợ
-L24980 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cứ đi_đi như đã định
 L24981 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không ngờ cậu rất
 L24982 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đừng cảm_động tôi không làm vì cậu
 L24983 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhớ chị không
@@ -4270,8 +4074,6 @@ L25009 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ công_việc bận quá
 L25010 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ừ tớ cũng bận công_việc
 L25011 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ đang đi thực_tập
 L25012 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc chỉ có tớ rảnh_rỗi
-L25013 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ 20
-L25014 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ 00 : 03 : 37680 - -> 00 : 03 : 39560
 L25015 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hiếm khi ba chúng_ta gặp nhau
 L25016 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hiếm khi gặp nhau hay_là cùng đi làm nhiệm_vụ đi
 L25017 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được
@@ -4306,8 +4108,6 @@ L25045 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hẹn ở đó nhé
 L25046 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hẹn ở đó nhé
 L25047 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vâng ạ
 L25048 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao anh không dùng ứng_dụng tin nhắn bình_thường
-L25049 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế này tiện hơn
-L25050 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh vừa nhớ ra họ_hàng anh hiện có biệt_thự để trống
 L25051 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế ạ
 L25052 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ở đó có bể_bơi
 L25053 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em muốn đi bơi không
@@ -4440,8 +4240,6 @@ L25179 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thật xin_lỗi tôi vụn
 L25180 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không sao ạ
 L25181 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho tôi xin ly khác
 L25182 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vâng ạ
-L25183 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lần này ta gọi mọi người là để bàn một chuyện
-L25184 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện gì thế
 L25185 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyện gì thế
 L25186 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tổ_chức một cuộc họp_mặt ngoài đời thực
 L25187 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họp_mặt người chơi sao
@@ -4544,8 +4342,6 @@ L25283 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai sẽ gọi món ạ
 L25284 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu gọi đi nhé
 L25285 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu gọi đi nhé
 L25286 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để tớ gọi
-L25287 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hồi xưa bận không kịp ăn toàn ăn bánh_bao với nước
-L25288 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giờ thì cái gì cũng có
 L25289 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy chỉ ăn bánh_bao với nước ư
 L25290 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có khi còn chẳng ăn luôn
 L25291 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có khi còn chẳng ăn luôn
@@ -4628,8 +4424,6 @@ L25367 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rủ cả bạn trai cậu 
 L25368 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin_lỗi tôi không đi được
 L25369 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mọi người đi_đi đừng chờ em
 L25370 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không được
-L25371 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rủ bạn trai em đi cùng đi
-L25372 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không anh ấy hướng nội lắm không thích người lạ đâu
 L25373 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô ta là kẻ lẳng_lơ
 L25374 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toàn đong_đưa với đàn_ông
 L25375 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh có chấp_nhận không
@@ -4666,12 +4460,6 @@ L25405 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế đoạn video trong m
 L25406 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để tớ giải_thích
 L25407 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để tớ giải_thích
 L25408 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có gì mà giải_thích
-L25409 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không_thể tin cậu giấu tớ chuyện lớn như thế
-L25410 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ đã muốn nói với cậu nhưng lại sợ cậu buồn
-L25411 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu chuyển ra khỏi ký_túc_xá nên tớ không có cơ_hội nói
-L25412 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau đó thì sao_sao cậu không kể
-L25413 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau đó thì sao_sao cậu không kể
-L25414 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không phải cậu nói sẽ buông anh ấy sao nên tớ không muốn nhắc lại
 L25415 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu sẽ giữ bí_mật với anh ấy à
 L25416 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế còn tệ hơn
 L25417 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ gửi đoạn video đây
@@ -4722,8 +4510,6 @@ L25461 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em đến muộn vậy có 
 L25462 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trước mặt anh_em đừng e_dè thế anh không quen đâu
 L25463 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em muốn ở một mình một lát
 L25464 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được
-L25465 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em bảo nếu có người cần phải đi thì để em đi
-L25466 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô gái thông_minh biết mình phải đi đâu
 L25467 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau_này ta có cãi nhau không
 L25468 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không
 L25469 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao lại không
@@ -4778,8 +4564,6 @@ L25517 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em biết quán này ngon l
 L25518 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi thôi
 L25519 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm phiền tôi suốt
 L25520 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm phiền thế_nào ạ
-L25521 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy làm phiền anh thế_nào
-L25522 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hắn đòi anh lập đội với hắn trong game hồi trước
 L25523 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao lại thế được
 L25524 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thật quá_đáng
 L25525 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi cũng muốn ăn tối
@@ -4864,8 +4648,6 @@ L25603 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ làm_sao bây_giờ
 L25604 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu lén quay_phim cậu ta là sai rồi
 L25605 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy tin tớ
 L25606 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chứng_cứ rành_rành sao lại không tin
-L25607 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ta đòi gặp chúng_ta vì bị mất_mặt sao
-L25608 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu ta bị gái lừa còn bị tình_địch đến tìm để đối_chất
 L25609 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc_chắn là rất mất_mặt rồi
 L25610 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chắc vậy
 L25611 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu nên biết tôi đến đây để tính_sổ chứ
@@ -5044,8 +4826,6 @@ L25783 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em ghé qua xem thử
 L25784 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em ghé qua xem thử
 L25785 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hóa ra là thật
 L25786 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh sao thế
-L25787 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hoàn_toàn bình_thường
-L25788 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ có phải anh chia_tay bạn gái là vì cô ta không
 L25789 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không chắc
 L25790 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ không chắc
 L25791 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ nghĩ chắc là thế
@@ -5082,8 +4862,6 @@ L25821 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi tự học
 L25822 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em sẽ dọn về à
 L25823 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em đâu thể ở nhà anh mãi được
 L25824 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu muốn tôi nói_xấu cậu ta với người khác
-L25825 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ý bọn tôi không phải thế
-L25826 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bọn tôi chỉ nghĩ là thật bất_công khi thấy kẻ xấu đắc_ý
 L25827 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để tôi vừa ăn vừa nghĩ
 L25828 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ gặp cậu ở đây thật trùng_hợp
 L25829 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ừ tớ nghe nói chỗ này có cánh_gà ngon lắm
@@ -5106,8 +4884,6 @@ L25845 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh giao cơm trưa đến 
 L25846 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ họ lại vướng vấn_đề gì à
 L25847 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tối_ưu_hóa chưa đạt kết_quả mong_muốn
 L25848 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em có nên gọi họ ra ăn không
-L25849 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cứ để đồ ăn ở đây đói thì họ tự ra ăn
-L25850 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để em hâm lại nguội rồi
 L25851 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không cần anh ăn xong rồi
 L25852 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh dẫn em đi dạo
 L25853 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi đâu ạ
@@ -5152,8 +4928,6 @@ L25891 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ để đó đi
 L25892 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đi mau đi
 L25893 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em biết rồi
 L25894 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ luận_văn của em tốt lắm
-L25895 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cảm_ơn giáo_sư
-L25896 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chỗ ở của bạn em gặp chút vấn_đề nên em ở đây mấy hôm
 L25897 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không sao đâu
 L25898 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lát nữa các cậu làm gì
 L25899 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tớ đến công_ty lĩnh lương_thực_tập
@@ -5224,8 +4998,6 @@ L25963 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngon không
 L25964 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngon quá_xá
 L25965 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh thật tài_hoa
 L25966 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh cũng nghĩ vậy
-L25967 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không có tiền nên không học tiếp được
-L25968 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh còn sống ổn hơn đám sinh_viên tốt_nghiệp như bọn tôi
 L25969 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu muốn tôi sống ở đây chứ
 L25970 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ muốn
 L25971 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi không_thể làm mấy việc vặt đó
@@ -5260,8 +5032,6 @@ L25999 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao không để họ bơi 
 L26000 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ được
 L26001 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu quả là có đôi mắt tinh_tường
 L26002 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chứ sao
-L26003 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu cố_tình thua à
-L26004 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy nói sẽ chỉ nướng đồ_ăn nếu anh ấy thắng
 L26005 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ấy giận à
 L26006 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ừ vì không được tin_tưởng
 L26007 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ừ vì không được tin_tưởng
@@ -5310,16 +5080,10 @@ L26049 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu chỉ_đạo cho em �
 L26050 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ giúp một_chút thôi
 L26051 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nói một câu mà anh đã sợ à
 L26052 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ im_đi đấu thì đấu
-L26053 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bọn tôi đi dạo đây
-L26054 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi còn chưa ăn tối mà cậu đã đi hẹn_hò sao
-L26055 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi còn chưa ăn tối mà cậu đã đi hẹn_hò sao
-L26056 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bọn tôi ở lại thêm thì cậu đói cả đêm mất
 L26057 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nơi này giống đỉnh_lạc_hà trong game quá
 L26058 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thế nên anh mới đưa em tới
 L26059 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trò_chơi có đóng cửa không
 L26060 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ không đâu anh nghĩ nó sẽ vẫn hoạt_động
-L26061 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ fengteng sẽ không đóng máy_chủ khi số người chơi giảm ư
-L26062 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ trò mới có hay đến đâu cũng không thay_thế được trò cũ
 L26063 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tốt_nghiệp xong em đến chỗ anh làm luôn à
 L26064 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chứ còn gì nữa
 L26065 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chứ còn gì nữa
@@ -5344,8 +5108,6 @@ L26083 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tài_tử của khoa ngoạ
 L26084 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hướng_dẫn_viên
 L26085 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hướng_dẫn_viên
 L26086 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi là tùy_viên cho phái_đoàn nước_ngoài tới trung hoa
-L26087 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tôi là tùy_viên cho phái_đoàn nước_ngoài tới trung hoa
-L26088 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu còn chẳng phải là hướng_dẫn_viên mà là tên sai vặt
 L26089 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cô thật đáng yêu
 L26090 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cảm_ơn
 L26091 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cậu nên cẩn_thận
@@ -5362,12 +5124,8 @@ L26101 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bọn em không làm_phiề
 L26102 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chào sư_huynh
 L26103 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vị_hôn_phu
 L26104 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh đồng_ý làm vị_hôn_phu của em khi nào vậy
-L26105 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ngủ trên sô - pha nhiều không tốt cho cột_sống đâu
-L26106 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai bảo anh sẽ nằm sô - pha ngủ
 L26107 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khi nào em mới cho anh tốt_nghiệp
 L26108 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tốt_nghiệp gì ạ
-L26109 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ em bắt anh học khoa tự_động kiềm_chế hai năm rồi mà
-L26110 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tự_động kiềm_chế
 L26111 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tự_động kiềm_chế
 L26112 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tự kiềm_chế
 L26113 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ đây là lần đầu con rể tới thăm
