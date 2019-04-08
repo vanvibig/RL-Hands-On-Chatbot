@@ -176,12 +176,12 @@ if __name__ == "__main__":
             writer.add_scalar("bleu_sample", np.mean(bleus_sample), batch_idx)
             writer.add_scalar("skipped_samples", skipped_samples / total_samples, batch_idx)
             writer.add_scalar("epoch", batch_idx, epoch)
-            log.info("Epoch %d, mean_loss: %.3f, test BLEU: %.3f", epoch, np.mean(losses), bleu_test)
+            log.info("Epoch {}, mean_loss: {}, test BLEU: {}".format(epoch, abs(np.mean(losses)), bleu_test))
             if best_bleu is None or best_bleu < bleu_test:
                 best_bleu = bleu_test
                 log.info("Best bleu updated: %.4f", bleu_test)
                 torch.save(net.state_dict(), os.path.join(saves_path, "bleu_%.3f_%02d.dat" % (bleu_test, epoch)))
             if epoch % 10 == 0:
-                torch.save(net.state_dict(), os.path.join(saves_path, "epoch_%03d_%.3f_%.3f_loss%.3f.dat" % (epoch, bleu, bleu_test, np.mean(losses))))
+                torch.save(net.state_dict(), os.path.join(saves_path, "epoch_{}_{}_{}_loss{}.dat" % (epoch, bleu, bleu_test, abs(np.mean(losses)))))
 
     writer.close()
