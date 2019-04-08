@@ -74,6 +74,7 @@ if __name__ == "__main__":
 
     log.info("Obtained %d phrase pairs with %d uniq words",
              len(phrase_pairs), len(emb_dict))
+    log.info("Obtained %d phrase after max-len clean", len(phrase_pairs)*2)
     data.save_emb_dict(saves_path, emb_dict)
     end_token = emb_dict[data.END_TOKEN]
     train_data = data.encode_phrase_pairs(phrase_pairs, emb_dict)
