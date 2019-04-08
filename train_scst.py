@@ -19,6 +19,7 @@ SAVES_DIR = "saves"
 BATCH_SIZE = 16
 LEARNING_RATE = 1e-4
 MAX_EPOCHES = 10000
+START_EPOCH = 0
 
 log = logging.getLogger("train")
 
@@ -48,9 +49,12 @@ if __name__ == "__main__":
     parser.add_argument("-n", "--name", required=True, help="Name of the run")
     parser.add_argument("-l", "--load", required=True, help="Load model and continue in RL mode")
     parser.add_argument("--samples", type=int, default=4, help="Count of samples in prob mode")
+    parser.add_argument("-se","--start_epoch", type=int, default=0, help="Start Epoch")
     parser.add_argument("--disable-skip", default=False, action='store_true', help="Disable skipping of samples with high argmax BLEU")
     args = parser.parse_args()
     device = torch.device("cuda" if args.cuda else "cpu")
+
+    START_EPOCH = args.start_epoch
 
     saves_path = os.path.join(SAVES_DIR, args.name)
     os.makedirs(saves_path, exist_ok=True)
@@ -86,7 +90,7 @@ if __name__ == "__main__":
         optimiser = optim.Adam(net.parameters(), lr=LEARNING_RATE, eps=1e-3)
         batch_idx = 0
         best_bleu = None
-        for epoch in range(MAX_EPOCHES):
+        for epoch in range(START_EPOCH, MAX_EPOCHES):
             losses = []
 
             random.shuffle(train_data)
