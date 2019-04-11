@@ -55,8 +55,11 @@ if __name__ == "__main__":
         seeds = open('test_input.txt', encoding='utf-8', errors='ignore').read().split('\n')
         print("Bat dau ghi file")
         for seed in seeds:
+
+            seed = word_tokenize(seed, format="text")
+
             fx.write('input: {}\n'.format(seed))
-            
+
             words = utils.tokenize(seed)
             words = words_to_words(words, emb_dict, rev_emb_dict, net, use_sampling=args.sample)
             kq = utils.untokenize(words)
