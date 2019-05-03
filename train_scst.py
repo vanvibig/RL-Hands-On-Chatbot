@@ -54,6 +54,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     device = torch.device("cuda" if args.cuda else "cpu")
 
+    log.info("Using device: {}".format(device))
+
     START_EPOCH = args.start_epoch
 
     saves_path = os.path.join(SAVES_DIR, args.name)
