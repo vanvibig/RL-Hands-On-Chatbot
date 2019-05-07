@@ -167,8 +167,7 @@ if __name__ == "__main__":
 
                 losses.append(loss_v.item())
 
-                # tb_tracker.track("advantage", adv_v, batch_idx)
-                tb_tracker.track("advantage", adv_v.item(), batch_idx)
+                tb_tracker.track("advantage", adv_v, batch_idx)
                 tb_tracker.track("loss_policy", loss_policy_v, batch_idx)
                 tb_tracker.track("loss_total", loss_v, batch_idx)
 
