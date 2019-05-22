@@ -1,53 +1,53 @@
 input: xin chào
-output: chào cưng
+output: bạn khỏe không
 
 input: chào cậu nhé
-output: chào anh
+output: cảm_ơn bạn
 
 input: chào cậu nhé
-output: chào anh
+output: cảm_ơn bạn
 
 input: cậu tên gì thế
-output: không
+output: không có gì
 
 input: cậu tên gì thế
-output: không
+output: không có gì
 
 input: cậu ổn chứ
-output: ừ tôi ổn
+output: vâng
 
 input: cậu ăn sáng chưa
-output: chưa
+output: sắp rồi món mì này cháu thích
 
 input: cậu ăn sáng chưa
-output: chưa
+output: sắp rồi món mì này cháu thích
 
 input: cậu có gì cho tôi ăn nào
-output: tớ nói đồ ăn
+output: tôi có
 
-input: chúc mừng sinh nhật
-output: tạm_biệt đã mang con phút
+input: chúc_mừng sinh_nhật
+output: cảm_ơn
 
-input: cậu biết mấy giờ rồi không
-output: không
+input: cậu biết_mấy giờ rồi không
+output: tớ không giống
 
-input: cậu biết mấy giờ rồi không
-output: không
+input: cậu biết_mấy giờ rồi không
+output: tớ không giống
 
 input: tôi đang rất buồn
-output: anh không nói gì
+output: này
 
-input: chúc mừng năm mới
-output: dân it thích 2 phút
-
-input: xin chào
-output: chào cưng
+input: chúc_mừng năm mới
+output: năm mới phát_tài
 
 input: xin chào
-output: chào cưng
+output: bạn khỏe không
 
-input: cậu bao nhiêu tuổi
-output: có_lẽ
+input: xin chào
+output: bạn khỏe không
+
+input: cậu bao_nhiêu tuổi
+output: 20
 
 input: cậu sống ở đâu
 output: ở bến tàu
@@ -59,23 +59,23 @@ input: cậu có tiền không
 output: có
 
 input: cậu ăn sáng chưa
-output: chưa
+output: sắp rồi món mì này cháu thích
 
-input: chúng ta đi ăn nhé
-output: đưa anh không
+input: chúng_ta đi ăn nhé
+output: được
 
 input: tôi đang buồn
-output: anh có biết
+output: tôi đang chờ_đợi
 
 input: tôi yêu cậu
-output: ông nói gì
+output: tôi cũng còn sống có mà không
 
 input: cậu rảnh không
-output: không
+output: không tớ
 
-input: cậu có biết mặt trời không
-output: không chẳng hiểu gì cả
+input: cậu có biết mặt_trời không
+output: không có gì ạ
 
 input: 
-output: cậu có làm
+output: anh xin_lỗi
 

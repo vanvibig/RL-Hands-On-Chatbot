@@ -37,11 +37,11 @@ def process_string(s, emb_dict, rev_emb_dict, net, use_sampling=False):
 if __name__ == "__main__":
     logging.basicConfig(format="%(asctime)-15s %(levelname)s %(message)s", level=logging.INFO)
     parser = argparse.ArgumentParser()
-    parser.add_argument("-m", "--model", required=False, default='saves\scstRL\epoch_2180_0.9923759427128847_0.06677116008140464_loss0.0010937187970369593.dat', help="Model name to load")
+    parser.add_argument("-m", "--model", required=True, help="Model name to load")
     parser.add_argument("-s", "--string", help="String to process, otherwise will loop")
     parser.add_argument("--sample", default=False, action="store_true", help="Enable sampling generation instead of argmax")
     parser.add_argument("--self", type=int, default=1, help="Enable self-loop mode with given amount of phrases.")
-    parser.add_argument("-f", "--file", default='', help="input file test")
+    parser.add_argument("-f", "--file", help="input file test")
     args = parser.parse_args()
 
     emb_dict = data.load_emb_dict(os.path.dirname(args.model))
@@ -50,25 +50,42 @@ if __name__ == "__main__":
 
     rev_emb_dict = {idx: word for word, idx in emb_dict.items()}
 
+    # if args.file:
+    #     fx = open("output.txt", "w", encoding='utf-8', errors='ignore')
+    #     seeds = open('test_input.txt', encoding='utf-8', errors='ignore').read().split('\n')
+    #     print("Bat dau ghi file")
+    #     for seed in seeds:
+
+    #         seed = word_tokenize(seed, format="text")
+
+    #         fx.write('input: {}\n'.format(seed))
+
+    #         words = utils.tokenize(seed)
+    #         words = words_to_words(words, emb_dict, rev_emb_dict, net, use_sampling=args.sample)
+    #         kq = utils.untokenize(words)
+    #         fx.write('output: {}\n\n'.format(kq))
+
+    #     fx.close()
+    #     print("Ket thuc ghi file")
+
     if args.file:
-        fx = open("output.txt", "w", encoding='utf-8', errors='ignore')
-        seeds = open('test_input.txt', encoding='utf-8', errors='ignore').read().split('\n')
-        # print("Bat dau ghi file")
+        fx = open("test_answer_from_model.txt", "w", encoding='utf-8', errors='ignore')
+        seeds = open('test_question.txt', encoding='utf-8', errors='ignore').read().split('\n')
+        print("Bat dau ghi file")
         for seed in seeds:
 
             seed = word_tokenize(seed, format="text")
 
-            fx.write('input: {}\n'.format(seed))
+            # fx.write('input: {}\n'.format(seed))
 
             words = utils.tokenize(seed)
             words = words_to_words(words, emb_dict, rev_emb_dict, net, use_sampling=args.sample)
             kq = utils.untokenize(words)
-            fx.write('output: {}\n\n'.format(kq))
+            kq = kq.replace('_', ' ')
+            fx.write('{}\n'.format(kq))
 
         fx.close()
-        # print("Ket thuc ghi file")
-
-    print()
+        print("Ket thuc ghi file")
 
     while True:
         if args.string:
@@ -80,14 +97,12 @@ if __name__ == "__main__":
 
         input_string = word_tokenize(input_string, format="text")
 
-        # print('tokenized: {}'.format(input_string))
+        print('tokenized: {}'.format(input_string))
 
         words = utils.tokenize(input_string)
         for _ in range(args.self):
             words = words_to_words(words, emb_dict, rev_emb_dict, net, use_sampling=args.sample)
-            print('Bot: {}'.format(utils.untokenize(words).replace('_',' ')))
-
-        print()
+            print('Bot: {}'.format(utils.untokenize(words)))
 
         if args.string:
             break

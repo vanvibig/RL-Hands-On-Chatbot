@@ -1,0 +1,1 @@
+activate pytorch_spyder_jupyter
